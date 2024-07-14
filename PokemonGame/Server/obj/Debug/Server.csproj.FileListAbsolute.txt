@@ -1,0 +1,10 @@
+C:\Users\yuj20\OneDrive\바탕 화면\PokemonGame\Server\bin\Debug\Server.exe.config
+C:\Users\yuj20\OneDrive\바탕 화면\PokemonGame\Server\bin\Debug\Server.exe
+C:\Users\yuj20\OneDrive\바탕 화면\PokemonGame\Server\bin\Debug\Server.pdb
+C:\Users\yuj20\OneDrive\바탕 화면\PokemonGame\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\yuj20\OneDrive\바탕 화면\PokemonGame\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\yuj20\OneDrive\바탕 화면\PokemonGame\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\yuj20\OneDrive\바탕 화면\PokemonGame\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\yuj20\OneDrive\바탕 화면\PokemonGame\Server\obj\Debug\Server.exe
+C:\Users\yuj20\OneDrive\바탕 화면\PokemonGame\Server\obj\Debug\Server.pdb
+C:\Users\yuj20\OneDrive\바탕 화면\PokemonGame\Server\obj\Debug\Server.Form1.resources
