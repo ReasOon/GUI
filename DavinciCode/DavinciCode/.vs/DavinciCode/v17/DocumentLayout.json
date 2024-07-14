@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3294383-B15C-4272-85AF-19283A9015EA}|Client\\Client.csproj|c:\\users\\\uC655\uB098\uACBD\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\davincicode\\davincicode\\davincicode\\client\\gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3294383-B15C-4272-85AF-19283A9015EA}|Client\\Client.csproj|solutionrelative:client\\gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3294383-B15C-4272-85AF-19283A9015EA}|Client\\Client.csproj|C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\client\\gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3294383-B15C-4272-85AF-19283A9015EA}|Client\\Client.csproj|solutionrelative:client\\gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3294383-B15C-4272-85AF-19283A9015EA}|Client\\Client.csproj|C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\client\\gamescreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3294383-B15C-4272-85AF-19283A9015EA}|Client\\Client.csproj|solutionrelative:client\\gamescreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3294383-B15C-4272-85AF-19283A9015EA}|Client\\Client.csproj|C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3294383-B15C-4272-85AF-19283A9015EA}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3294383-B15C-4272-85AF-19283A9015EA}|Client\\Client.csproj|C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\client\\startscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3294383-B15C-4272-85AF-19283A9015EA}|Client\\Client.csproj|solutionrelative:client\\startscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3294383-B15C-4272-85AF-19283A9015EA}|Client\\Client.csproj|C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\client\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{B3294383-B15C-4272-85AF-19283A9015EA}|Client\\Client.csproj|solutionrelative:client\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CF1272-4ECB-4F21-92D6-D1C3E8C0C32B}|Server\\Server.csproj|C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4CF1272-4ECB-4F21-92D6-D1C3E8C0C32B}|Server\\Server.csproj|solutionrelative:server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CF1272-4ECB-4F21-92D6-D1C3E8C0C32B}|Server\\Server.csproj|C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\server\\handleclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CF1272-4ECB-4F21-92D6-D1C3E8C0C32B}|Server\\Server.csproj|solutionrelative:server\\handleclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CF1272-4ECB-4F21-92D6-D1C3E8C0C32B}|Server\\Server.csproj|C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CF1272-4ECB-4F21-92D6-D1C3E8C0C32B}|Server\\Server.csproj|solutionrelative:server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameScreen.cs",
+              "DocumentMoniker": "C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\Client\\GameScreen.cs",
+              "RelativeDocumentMoniker": "Client\\GameScreen.cs",
+              "ToolTip": "C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\Client\\GameScreen.cs",
+              "RelativeToolTip": "Client\\GameScreen.cs",
+              "ViewState": "AQIAAAsBAAAAAAAAAAAewBAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:59:19.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HandleClient.cs",
+              "DocumentMoniker": "C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\Server\\HandleClient.cs",
+              "RelativeDocumentMoniker": "Server\\HandleClient.cs",
+              "ToolTip": "C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\Server\\HandleClient.cs",
+              "RelativeToolTip": "Server\\HandleClient.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:50:50.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameScreen.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\Client\\GameScreen.cs",
+              "RelativeDocumentMoniker": "Client\\GameScreen.cs",
+              "ToolTip": "C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\Client\\GameScreen.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Client\\GameScreen.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:50:50.178Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:50:50.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameScreen.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\Client\\GameScreen.Designer.cs",
+              "RelativeDocumentMoniker": "Client\\GameScreen.Designer.cs",
+              "ToolTip": "C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\Client\\GameScreen.Designer.cs",
+              "RelativeToolTip": "Client\\GameScreen.Designer.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAawCsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:01:29.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\Server\\Form1.cs",
+              "RelativeDocumentMoniker": "Server\\Form1.cs",
+              "ToolTip": "C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\Server\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\Server\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:50:50.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\Client\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Client\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\Client\\Properties\\Resources.resx",
+              "RelativeToolTip": "Client\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-06T08:54:44.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartScreen.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\Client\\StartScreen.cs",
+              "RelativeDocumentMoniker": "Client\\StartScreen.cs",
+              "ToolTip": "C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\Client\\StartScreen.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\Client\\StartScreen.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:50:50.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\Server\\Form1.cs",
+              "RelativeDocumentMoniker": "Server\\Form1.cs",
+              "ToolTip": "C:\\Users\\\uC655\uB098\uACBD\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DavinciCode\\DavinciCode\\DavinciCode\\Server\\Form1.cs",
+              "RelativeToolTip": "Server\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:50:50.181Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

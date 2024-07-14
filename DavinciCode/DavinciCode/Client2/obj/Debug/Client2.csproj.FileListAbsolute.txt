@@ -1,0 +1,11 @@
+C:\Users\yuj20\OneDrive\바탕 화면\DavinciCode\DavinciCode\Client2\bin\Debug\Client2.exe.config
+C:\Users\yuj20\OneDrive\바탕 화면\DavinciCode\DavinciCode\Client2\bin\Debug\Client2.exe
+C:\Users\yuj20\OneDrive\바탕 화면\DavinciCode\DavinciCode\Client2\bin\Debug\Client2.pdb
+C:\Users\yuj20\OneDrive\바탕 화면\DavinciCode\DavinciCode\Client2\obj\Debug\Client2.csproj.AssemblyReference.cache
+C:\Users\yuj20\OneDrive\바탕 화면\DavinciCode\DavinciCode\Client2\obj\Debug\Client2.GameScreen.resources
+C:\Users\yuj20\OneDrive\바탕 화면\DavinciCode\DavinciCode\Client2\obj\Debug\Client2.Properties.Resources.resources
+C:\Users\yuj20\OneDrive\바탕 화면\DavinciCode\DavinciCode\Client2\obj\Debug\Client2.StartScreen.resources
+C:\Users\yuj20\OneDrive\바탕 화면\DavinciCode\DavinciCode\Client2\obj\Debug\Client2.csproj.GenerateResource.cache
+C:\Users\yuj20\OneDrive\바탕 화면\DavinciCode\DavinciCode\Client2\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+C:\Users\yuj20\OneDrive\바탕 화면\DavinciCode\DavinciCode\Client2\obj\Debug\Client2.exe
+C:\Users\yuj20\OneDrive\바탕 화면\DavinciCode\DavinciCode\Client2\obj\Debug\Client2.pdb
